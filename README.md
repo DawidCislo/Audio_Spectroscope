@@ -1,5 +1,6 @@
 # Audio_Spectroscope
 ![](https://github.com/DawidCislo/Audio_Spectroscope/blob/main/GIF_Preview.gif)
+
 This is an Audio Spectroscope made without using any kind of programmable devices. It uses over 120 ICs such as operational amplifiers, comparators and logic gates to create the effect you can see in the preview above.
 
 # Theory of operation
