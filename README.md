@@ -53,5 +53,7 @@ If everything is working as it should, you can go ahead and assemble it together
 
 ## Other information 
 The project files were last edited in KiCad 7.0.9 and can be opened by any version that's newer than that.
-Symbols and footprints used to create this project are part of my library, you can get it and use it for your projects here: [alternatekicadlibrary.com](https://alternatekicadlibrary.com/)
+
+Symbols and footprints used to create this project are part of my library, you can get it and use it for your projects here: [alternatekicadlibrary.com](https://alternatekicadlibrary.com/).
+
 All the content within this repository is dedicated to the public domain under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
