@@ -47,10 +47,9 @@ Only after each PCB is thoroughly tested, you can connect them all together and 
 
 ![](https://github.com/DawidCislo/Audio_Spectroscope/blob/main/Docs/Prev_Assy.jpg)
 
-If everything is working as it should, you can go ahead and assemble it together. I used a set of long M3 screws to tie all the display modules together and used a [TEKAL 31.29](https://www.tme.eu/pl/details/tekal31.29/obudowy-z-panelem/teko/tekal-31-29/) case. In this preview you can see the first prototype, which had several major errors - they have been fixed and the files shared in this repository should be all good. I've used thin strips of gray foil to stop light from bleeding between LEDs. On the animated preview and here, only 9 display modules are fitted - last module is broken and I can't figure out what exactly is wrong with it.
+If everything is working as it should, you can go ahead and assemble it together. I used a set of long M3 screws to tie all the display modules together and used a [TEKAL 31.29](https://www.tme.eu/pl/details/tekal31.29/obudowy-z-panelem/teko/tekal-31-29/) case. I've used thin strips of gray foil to stop light from bleeding between LEDs. In this preview you can see the first prototype, which had several major errors - they have been fixed and the files shared in this repository should be all good. On the animated preview and here, only 9 display modules are fitted - last module is broken and I can't figure out what exactly is wrong with it.
 > [!NOTE]
 > All those ICs packed so close together get pretty hot, and the hotter the circuit gets, the larger leakage currents are, and the faster the 'slow' peak detector falls. Drill a few ventillation holes or use a thermal pad to help dissipate the heat.
-Image pending
 
 ## Other information 
 The project files were last edited in KiCad 7.0.9 and can be opened by any version that's newer than that.
