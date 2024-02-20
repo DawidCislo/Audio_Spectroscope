@@ -34,7 +34,7 @@ Both the fast and slow peak detector outputs are connected to 12 comparators eac
 
 The LEDs are driven by a pair of transistors each (Q2, Q3, Q4 ...). One transistor is controlled by the slow side, while the other one is controlled by the fast side. Transistors are connected in such a way, that either one can independently turn the LED on. Current of the LEDs is set by the series resistors (R8, R9, R10 ...), increasing the value of these resistors decreases the brightness of the LED, and reducing the value increases it. Different LEDs from different manufacturers might need adjustment of these resistor values to achieve a matching brightness for different colors. During the assembly of the first prototype I bought new red and green LEDs, but used old yellow LEDs that I had in stock. Since the old LEDs were much dimmer than the new ones, I used a lower value of resistance for yellow LEDs. Results may vary for your LEDs and it's much better to check them before soldering all 10 display modules.
 
-![]([https://github.com/DawidCislo/Audio_Spectroscope/blob/main/Docs/Prev_Backplane_Audio_In.png](https://github.com/DawidCislo/Audio_Spectroscope/blob/main/Docs/Prev_Display_LEDs.png))
+![](https://github.com/DawidCislo/Audio_Spectroscope/blob/main/Docs/Prev_Display_LEDs.png)
 
 
 #  Assembly tips and troubleshooting
